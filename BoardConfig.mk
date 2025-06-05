@@ -18,3 +18,4 @@ include device/nvidia/foster/BoardConfig.mk
 
 # Partitions
 BOARD_SYSTEMIMAGE_PARTITION_SIZE := 2147483648
+BOARD_BOOTCONFIG += androidboot.selinux=permissive
