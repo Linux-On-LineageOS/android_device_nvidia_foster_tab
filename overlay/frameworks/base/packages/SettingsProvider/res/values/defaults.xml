@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+     Copyright (C) 2023 The LineageOS Project
+
+     SPDX-License-Identifier: Apache-2.0
+-->
+<resources>
+    <integer name="def_screen_off_timeout">1800000</integer>
+    <bool name="def_lockscreen_disabled">true</bool>
+</resources>
